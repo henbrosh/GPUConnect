@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ada23cd1-1802-4bc6-9bda-410c934ea112": {
+      "ProjectGuid": "ada23cd1-1802-4bc6-9bda-410c934ea112",
+      "DisplayName": "GPUControl",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
